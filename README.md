@@ -1,6 +1,7 @@
 # Future Ready Talent
-This is my FRT Internship project,
-azure link:
+This is my FRT Internship project
+
+azure link:https://white-hill-0b2c2d810.5.azurestaticapps.net/index.html
 
 # Problem Statement:
 
