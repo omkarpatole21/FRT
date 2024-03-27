@@ -12,8 +12,10 @@ Books4U is an ambitious endeavor aimed at revolutionizing the online book shoppi
 
 # Azure Technologies used:
 
-1.Static Web App deployment of the website /n
-2.Azure Storage Accounts /n
+1.Static Web App deployment of the website  
+
+2.Azure Storage Accounts 
+
 3.Container
 
 # Web Technologies used:
