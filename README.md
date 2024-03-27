@@ -21,7 +21,9 @@ Books4U is an ambitious endeavor aimed at revolutionizing the online book shoppi
 # Web Technologies used:
 
 1.HTML
+
 2.CSS
+
 3.JavaScript
 
 # IDE used:
