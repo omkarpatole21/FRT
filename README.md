@@ -2,6 +2,7 @@
 This is my FRT Internship project
 
 # azure link: https://purple-beach-05ebc8f10.4.azurestaticapps.net
+# demo: https://www.linkedin.com/posts/omkar-patole-254b852a8_futurereadytalent-internship-activity-7178808787846217729-14wn?utm_source=share&utm_medium=member_desktop
 
 # Problem Statement:
 
